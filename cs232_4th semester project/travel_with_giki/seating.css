@@ -1,0 +1,105 @@
+body{
+    
+    width: 95%;  
+   background: #1E7B8E;
+    height: 100%;
+  }
+  
+ 
+    .giki_logo{
+        /*background-color: #2B6D7B;*/
+        border-radius: 50%;
+        width: 80px;
+        padding: 0;
+    }
+  
+    .nav_bar ul{
+        color: #1E7B8E;
+        display: flex;
+        justify-content: space-between;
+        
+        
+     }
+  
+     .giki_logo_text ul{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+     }
+  
+     .logo_text{
+       padding-left: 15px ;
+       font-family: Arial, Helvetica, sans-serif;
+       font-style: normal;
+       font-weight: lighter;
+       font-size: 29;
+       color: white;
+     }
+  
+     .nav_bar_options ul a{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-weight: lighter;
+      font-size: 29;
+      z-index: 2;
+  
+     }
+  
+     a{
+        
+         color: white;
+         margin-top: 6px;
+         padding-right: 35px;
+         text-decoration: none;
+     }
+    
+
+
+.row1,.row2,.row4,.row5 {
+    
+
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+.row3{
+    
+    text-align: right;
+  
+}
+
+
+
+button{
+    color: #2B6D7B;
+    background-color: white;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 12px;
+    border-style: none;
+    font-size: 20px;
+}
+button:hover{
+    color: #28515a;
+    font-weight: bolder;
+    
+}
+
+option{
+   width: 20%;
+ padding: 20px; 
+}
+
+.all_seats{
+
+width: 90%;
+margin-top: 5%;
+margin-left: 5%;
+}

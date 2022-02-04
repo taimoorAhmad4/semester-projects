@@ -1,0 +1,97 @@
+body{
+	background-color: #169CAA;
+
+}
+
+       
+  .giki_logo{
+    background-color: #1E7B8E;
+    border-radius: 50%;
+    width: 80px;
+    padding: 0;
+}
+.nav_bar{
+ background-color: #1E7B8E;
+ width: 101%;
+ margin-left: -10px;
+ margin-top: -10px;
+}
+
+.nav_bar ul{
+    color: #1E7B8E;
+    display: flex;
+    justify-content: space-between;
+    
+ }
+
+ .giki_logo_text ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+ }
+
+ .logo_text{
+   padding-left: 15px ;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-weight: lighter;
+   font-size: 29;
+   color: white;
+ }
+
+ .nav_bar_options ul a{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 29;
+
+ }
+ a{
+      
+       
+    color: #ffffff;
+    margin-top: 6px;
+    padding-right: 35px;
+    text-decoration: none;
+}
+  
+.main_container{
+	background-color: #1E7B8E;
+	width: 1000px;
+	height: 300px;
+	margin-left: 220px;
+	margin-top: 150px;
+	padding: 40px 0px 40px 80px;
+	border-radius: 50px;
+}
+.details_container{
+	font-size: 20px;
+	color: white;
+}
+
+.details_container h1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.giki_logo_half{
+	float:  right;
+	height: 320px;
+	margin-top: -310px;
+}
+
+.main_{
+	width: 700px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.enter_data{
+	padding-top: 13px;
+	padding-right: 40px;
+}
+
+

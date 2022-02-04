@@ -1,0 +1,192 @@
+body{
+  background-image:url(pics/logic.jpg);
+  background-size: 110% 110%;
+  background-blend-mode: overlay;
+}
+
+.selection_text{
+    color: #b4a05f ;
+    font-size: 25;
+    margin-top: 45px;
+   
+}
+
+.solid_blue_for_admin img{
+  opacity: 22%;
+  border-radius: 50% 0 0 50%;
+  height: 100%;
+  width: 100%;
+}
+
+.solid_blue_for_admin{
+
+  
+  
+  height: 100%;
+  width: 35%;
+  margin-top: -127px;
+}
+
+
+
+  
+ 
+  
+  
+  .giki_logo{
+      background-color:  #b4a05f ;
+      border-radius: 50%;
+      width: 80px;
+      padding: 0;
+  }
+
+  .nav_bar ul{
+      color:  #b4a05f ;
+      display: flex;
+      justify-content: space-between;
+      z-index: 2;
+      
+   }
+
+   .giki_logo_text ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+   }
+
+   .logo_text{
+     padding-left: 15px ;
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: normal;
+     font-weight: lighter;
+     font-size: 29;
+     color:  #b4a05f ;
+   }
+
+   .nav_bar_options ul a{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 29;
+    z-index: 2;
+
+   }
+
+   a{
+      
+       
+       color:  #b4a05f ;
+       margin-top: 6px;
+       padding-right: 35px;
+       text-decoration: none;
+   }
+  
+  
+  
+ 
+  
+  
+  .container {
+    padding: 16px;
+    padding-top: 50;
+  }
+  
+
+  
+form {
+color:  #000000 ;
+}
+
+
+/* Full-width inputs */
+#from_bar, #to_bar, #Reg_No{
+width: 80%;
+padding: 12px 20px;
+margin: 20px 0;
+border: 1px solid #ccc;
+color: #070707;
+border-radius: 15px;
+
+}
+
+.date_and_submit {
+display: flex;
+justify-content:space-between;
+width: 80%;
+margin-top: -10px;
+text-align: center;
+margin-left: 63px;
+}
+
+
+
+.date_select{
+width: 50%;
+margin: 20px 0;
+color: rgb(0, 0, 0);
+border-radius: 15px;
+
+}
+
+
+#date_selection{
+width: 100%;
+padding: 12px 20px;
+margin: 10px 0 ;
+border: 1px solid #ccc;
+color:  #ffc400 ;
+border-radius: 15px;
+
+}
+
+.submit_button{
+
+padding: 10px 0px 0px 5px;
+margin: 20px 0;
+width: 50%;
+
+}
+
+button {
+background-color: #c0c281;
+color:#2B6D7B;
+padding: 13px 25px;
+margin: 20px 0;
+border: none;
+cursor: pointer;
+width: 100%;
+border-radius: 15px;
+
+}
+
+
+
+button:hover {
+opacity: 0.8;
+}
+
+
+.route_selection_container{
+margin-top:-650px;
+margin-left: 35%;
+background-color: rgba(255, 255, 255, 0.315);
+border-radius: 10px;
+text-align: center;
+padding-top: 10px;
+width: 40%;
+}
+.selection_text{
+font-weight: bolder;
+font-size: 9ex;
+margin-bottom: 15px;
+
+}
+
+
+  
+  
+  
+

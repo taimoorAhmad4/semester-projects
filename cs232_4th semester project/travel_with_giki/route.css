@@ -1,0 +1,217 @@
+body{
+    width: 100%;  
+    background-color: #EC4C44;
+    height: 100%;
+  }
+  
+  .selection_text{
+      color: #ffffff ;
+      font-size: 25;
+      margin-top: 45px;
+     
+  }
+      
+     
+  
+  .side_image img{
+      
+      
+      opacity: 80%;
+      border-radius: 50% 0 0 50%;
+      background-color: rgba(255, 255, 255, 0.541);
+      height: 100%;
+      width: 100%;
+     
+      
+  }
+  .side_image{
+   
+    border-radius: 50% 0 0 50%;
+    margin-left: 55%;
+    height: 100%;
+    margin-top: -760px;
+     
+  }
+
+
+  .solid_left_white{
+
+    background-color: #ffffff44;
+    border-radius: 10% 50% 50% 10%;
+    
+    margin-left: -10px;
+    height: 105%;
+    width: 50%;
+    margin-top: -150px;
+  }
+ 
+
+    
+    .giki_logo{
+        background-color: #EC4C44;
+        border-radius: 50%;
+        width: 80px;
+        padding: 0;
+    }
+  
+    .nav_bar ul{
+        color: #2b7b2b;
+        display: flex;
+        justify-content: space-between;
+        z-index: 2;
+        
+     }
+  
+     .giki_logo_text ul{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+     }
+  
+     .logo_text{
+       padding-left: 15px ;
+       font-family: Arial, Helvetica, sans-serif;
+       font-style: normal;
+       font-weight: lighter;
+       font-size: 29;
+       color: white;
+     }
+  
+     .nav_bar_options ul a{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-weight: lighter;
+      font-size: 29;
+      z-index: 2;
+  
+     }
+  
+     a{
+        
+         
+         color: #ffffff;
+         margin-top: 6px;
+         padding-right: 35px;
+         text-decoration: none;
+     }
+    
+    
+    
+   
+    
+    
+    .container {
+      padding: 16px;
+      padding-top: 50;
+    }
+    
+
+    
+form {
+  color: #ffffff;
+}
+
+/* Full-width inputs */
+#from_bar, #to_bar {
+ width: 80%;
+ padding: 12px 20px;
+ margin: 20px 0;
+ border: 1px solid #ccc;
+ color: #EC4C44;
+ border-radius: 15px;
+
+}
+
+.date_and_submit {
+  display: flex;
+  justify-content:space-between;
+  width: 80%;
+ margin-top: -10px;
+  
+}
+
+
+
+.date_select{
+  width: 50%;
+ margin: 20px 0;
+ color: #ffffff;
+ border-radius: 15px;
+ 
+}
+
+
+#date_selection{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0 ;
+  border: 1px solid #ccc;
+  color:#EC4C44;
+  border-radius: 15px;
+
+}
+
+.submit_button{
+  
+ padding: 10px 0px 0px 5px;
+ margin: 20px 0;
+ width: 50%;
+ 
+}
+
+button {
+ background-color: #ec4c44;
+ color:white;
+ padding: 13px 25px;
+ margin: 20px 0;
+ border: none;
+ cursor: pointer;
+ width: 100%;
+ border-radius: 15px;
+}
+
+input[type=text]{
+  width: 100%;
+  padding: 12px 10px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  color: #EC4C44;
+  
+  border-radius: 15px;
+
+}
+
+.reg_no{
+  
+  color:white;
+
+  
+  width: 80%;
+  border-radius: 15px;
+}
+button:hover {
+ opacity: 0.8;
+}
+  
+
+.route_add_container{
+  margin-top: -650px;
+  margin-left: 60px;
+  
+  width: 40%;
+}
+.add_text{
+  font-weight: bolder;
+  font-size: 9ex;
+  margin-bottom: 15px;
+
+}
+
+
+    
+    
+    
+

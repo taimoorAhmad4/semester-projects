@@ -1,0 +1,154 @@
+body{
+    background-color: #1E7B8E;
+    
+  
+}
+
+  
+.background_image img{
+    width: 100%;
+    height: 100%;
+    opacity: 10%;
+    margin-top: -5px;
+    z-index: -1;
+    position: relative;
+
+}
+
+
+      .about_container{
+  
+         
+         
+          border-radius: 20px;
+          text-align: center;
+          padding-top: 10px;
+          margin-top: -40px;
+          align-self: center;
+          padding:20px;
+  
+        }
+  
+         
+          
+  .giki_logo{
+    background-color: #2B6D7B;
+    border-radius: 50%;
+    width: 80px;
+    padding: 0;
+}
+.nav_bar{
+  margin-top: -760px;
+}
+
+.nav_bar ul{
+    color: #1E7B8E;
+    display: flex;
+    justify-content: space-between;
+    
+ }
+
+ .giki_logo_text ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+ }
+
+ .logo_text{
+   padding-left: 15px ;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-weight: lighter;
+   font-size: 29;
+   color: white;
+ }
+
+ .nav_bar_options ul a{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 29;
+
+ }
+ a{
+      
+       
+    color: #ffffff;
+    margin-top: 6px;
+    padding-right: 35px;
+    text-decoration: none;
+}
+  
+  
+          
+  
+
+
+            .inner_container {
+             
+              
+              color:#2B6D7B;
+             
+        
+              border: none;
+              
+              width: 100%;
+              z-index: 2;
+            
+             
+            
+              }
+
+
+              
+              .people{
+                background-color: white;
+                width: 100%;
+                padding: 20px;
+                padding-top: 50px;
+                margin-top: 80px;
+                margin-right: 25px ;
+                margin-left: 15px;
+                border-radius: 20px;
+                height: 400px;
+                
+              }
+
+              .people h2{
+                font-size: 20px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+
+              }
+              
+              
+  
+              .person
+              {
+
+                
+              
+               
+              
+                width: 150px;
+                height: 150px;
+                margin-top: -10px;
+                
+                border-radius: 50%;
+                
+               text-align: justify;
+  
+  
+              }
+              
+    .inner_container{
+  
+  display:flex;
+  justify-content: space-between;
+  
+  
+  
+    }

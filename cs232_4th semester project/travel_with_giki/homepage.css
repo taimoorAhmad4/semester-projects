@@ -1,0 +1,216 @@
+body{
+    
+    width: 100%;  
+    background-color: #2B6D7B;
+    height: 100%;
+  }
+  
+  .selection_text{
+      color: #ffffff ;
+      
+      font-size: 25;
+      margin-top: 45px;
+     
+  }
+      
+     
+  
+  .background_image img{
+      
+      
+      opacity: 22%;
+      border-radius: 50% 0 0 50%;
+      background-color: white;
+      height: 100%;
+      width: 100%;
+     
+      
+  }
+  .background_image{
+    background-color: white;
+    border-radius: 50% 0 0 50%;
+    margin-left: 59%;
+    height: 100%;
+    margin-top: -745px;
+     
+  }
+
+  .solid_blue_for_audi_stairs img{
+      
+      
+    opacity: 22%;
+    border-radius: 50% 0 0 50%;
+    height: 100%;
+    width: 100%;
+   
+    
+}
+
+  .solid_blue_for_audi_stairs{
+
+    background-color: #71acb8;
+    border-radius: 50% 0 0 50%;
+    /*margin-left: 53%;*/
+    margin-left: 54%;
+    height: 100%;
+    width: 37%;
+    margin-top: -127px;
+  }
+
+  
+  
+    
+   
+    
+    
+    .giki_logo{
+        background-color: #2B6D7B;
+        border-radius: 50%;
+        width: 80px;
+        padding: 0;
+    }
+  
+    .nav_bar ul{
+        color: #1E7B8E;
+        display: flex;
+        justify-content: space-between;
+        z-index: 2;
+        
+     }
+  
+     .giki_logo_text ul{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+     }
+  
+     .logo_text{
+       padding-left: 15px ;
+       font-family: Arial, Helvetica, sans-serif;
+       font-style: normal;
+       font-weight: lighter;
+       font-size: 29;
+       color: white;
+     }
+  
+     .nav_bar_options ul a{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-weight: lighter;
+      font-size: 29;
+      z-index: 2;
+  
+     }
+  
+     a{
+        
+         
+         color: #1E7B8E;
+         margin-top: 6px;
+         padding-right: 35px;
+         text-decoration: none;
+     }
+    
+    
+    
+   
+    
+    
+    .container {
+      padding: 16px;
+      padding-top: 50;
+    }
+    
+
+    
+form {
+  color: #ffffff;
+}
+
+/* Full-width inputs */
+#from_bar, #to_bar {
+ width: 80%;
+ padding: 12px 20px;
+ margin: 20px 0;
+ border: 1px solid #ccc;
+ color: #1E7B8E;
+ border-radius: 15px;
+
+}
+
+.date_and_submit {
+  display: flex;
+  justify-content:space-between;
+  width: 80%;
+ margin-top: -10px;
+  
+}
+
+
+
+.date_select{
+  width: 50%;
+ margin: 20px 0;
+ color: #ffffff;
+ border-radius: 15px;
+ 
+}
+
+
+#date_selection{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0 ;
+  border: 1px solid #ccc;
+  color: #1E7B8E;
+  border-radius: 15px;
+
+}
+
+.submit_button{
+  
+ padding: 10px 0px 0px 5px;
+ margin: 20px 0;
+ width: 50%;
+ 
+}
+
+button {
+ background-color: #C7CA6D;
+ color:#2B6D7B;
+ padding: 13px 25px;
+ margin: 20px 0;
+ border: none;
+ cursor: pointer;
+ width: 100%;
+ border-radius: 15px;
+}
+
+
+
+button:hover {
+ opacity: 0.8;
+}
+  
+
+.route_selection_container{
+  margin-top: -587px;
+  margin-left: 60px;
+  
+  width: 40%;
+}
+.selection_text{
+  font-weight: bolder;
+  font-size: 9ex;
+  margin-bottom: 15px;
+
+}
+
+
+    
+    
+    
+
